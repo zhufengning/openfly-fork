@@ -1,1 +1,11 @@
 # encoding: utf-8
+patch:
+  key_binder:
+    bindings:
+        bindings:
+          - {accept: minus, send: Page_Up, when: has_menu}
+          - {accept: equal, send: Page_Down, when: has_menu}
+          - {accept: comma, send: Page_Up, when: paging}
+          - {accept: period, send: Page_Down, when: has_menu}
+          - {accept: "Control+Shift+3", toggle: full_shape, when: always}
+          - {accept: "Control+Shift+4", toggle: simplification, when: always}

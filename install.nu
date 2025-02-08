@@ -1,0 +1,2 @@
+adb install --user 0 C:\Users\burin\Downloads\apk\org.fcitx.fcitx5.android-0.0.9-0-g8dc51356-arm64-v8a-release.apk
+adb install --user 0 C:\Users\burin\Downloads\apk\org.fcitx.fcitx5.android.plugin.rime-0.0.9-0-g8dc51356-arm64-v8a-release.apk

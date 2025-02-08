@@ -1,5 +1,12 @@
 # 开源小鹤
 
+## fork修改内容
+
+- 关闭快符号
+- shift上屏英文
+- 关闭反查
+- 开启编码提示
+
 配方： ℞ **openfly**
 
 词库开源的[小鹤音形](https://flypy.com) [Rime](https://rime.im) 输入方案
