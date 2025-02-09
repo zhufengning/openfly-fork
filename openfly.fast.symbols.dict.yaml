@@ -11,7 +11,7 @@
 ---
 name: openfly.fast.symbols
 version: "v10.9z"
-sort: by_weight
+sort: original
 use_preset_vocabulary: false
 ...
 ：	;

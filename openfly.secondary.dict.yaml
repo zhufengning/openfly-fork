@@ -7,7 +7,7 @@
 ---
 name: openfly.secondary
 version: "v10.9z"
-sort: by_weight
+sort: original
 use_preset_vocabulary: false
 ...
 饥渴	jike

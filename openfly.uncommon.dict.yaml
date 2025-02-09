@@ -7,7 +7,7 @@
 ---
 name: openfly.uncommon
 version: "v10.9z"
-sort: by_weight
+sort: original
 use_preset_vocabulary: false
 ...
 嶅	aof/
